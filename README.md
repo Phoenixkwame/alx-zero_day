@@ -1,1 +1,1 @@
-This is the updated readme
+This readme speaks more about script that prints the absolute path name of the current working directory
